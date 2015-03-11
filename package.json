@@ -1,0 +1,23 @@
+{
+  "name": "gulp-map-replace",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map",
+    "replace"
+  ],
+  "author": "misar",
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "through2": "^0.6.3",
+    "gulp-util": "^3.0.4"
+  }
+}
